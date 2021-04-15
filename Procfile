@@ -1,0 +1,1 @@
+web: gunicorn certificate_verify.wsgi
